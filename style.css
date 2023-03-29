@@ -1,0 +1,75 @@
+* {
+  text-align: center;
+  margin: 0 auto;
+  padding: 0 auto;
+  color: #fff;
+}
+
+#perfil {
+  /* rgb(126, 201, 126) */
+  width: 11rem;
+  height: 11rem;
+  border-radius: 50%;
+  border: 3px solid #5f2969;
+}
+
+.link {
+  display: flex;
+  padding-top: 20px;
+}
+
+header {
+  /* background: rgb(36, 92, 45); */
+  float: left;
+  background: rgb(53, 31, 53);
+  height: 100vh;
+  width: 30vh;
+  text-align: center;
+}
+
+.container_cabecalho {
+  padding-top: 5rem;
+}
+
+h1 {
+  padding-top: 2rem;
+  color: #fff;
+  font-size: 2rem;
+  font-family: "Montserrat", sans-serif;
+  padding-bottom: 3rem;
+}
+
+h2 {
+  margin: 10px;
+  font-size: 2rem;
+  font-family: "Montserrat", sans-serif;
+}
+
+p {
+}
+
+main {
+  height: 100vh;
+  display: grid;
+  background: #362739;
+}
+
+.conteudo_sobre {
+  padding-top: 2rem;
+  height: 25%;
+  width: 60%;
+}
+
+.conteudo_competencias {
+  height: 25%;
+  width: 60%;
+}
+
+ul {
+  list-style: none;
+}
+
+.conteudo_objetivo {
+  height: 25%;
+  width: 60%;
+}
